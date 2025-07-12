@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for watching my portfolio  template!
 
 Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://frabjous-vacherin-8950c1.netlify.app/
+Author:muradbzuneh@gmail.com
